@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Profile App</string>
+    <string name="dialog_msg">Wrong Password or Username</string>
+    <string name="dialog_title">Authentication Error</string>
+</resources>
